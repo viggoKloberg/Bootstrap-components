@@ -1,0 +1,35 @@
+.col {
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background-color: aqua;
+
+    height: 50px;
+}
+
+.btn-group {
+    display: flex;
+
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    
+    justify-content: space-evenly;
+    
+    background-color: aqua;
+    
+    height: 50px;
+}
+
+
+.footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
